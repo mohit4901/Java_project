@@ -1,0 +1,56 @@
+Day,PeriodIndex,TimeRange,BatchID,BatchName,CourseCode,CourseName,IsLab,RoomID,RoomName,RoomType,FacultyID,FacultyName
+Monday,5,14:00 - 15:00,GRP_CSE_Y1,CSE Year 1 (Sec-A),CS101,Programming Fundamentals,false,R_CR3,Classroom 203 (CR-3),Standard Classroom,INS_JOHNSON,Dr. Katherine Johnson
+Friday,5,14:00 - 15:00,GRP_CSE_Y1,CSE Year 1 (Sec-A),CS101,Programming Fundamentals,false,R_CR3,Classroom 203 (CR-3),Standard Classroom,INS_JOHNSON,Dr. Katherine Johnson
+Wednesday,5,14:00 - 15:00,GRP_CSE_Y1,CSE Year 1 (Sec-A),CS101,Programming Fundamentals,false,R_CR3,Classroom 203 (CR-3),Standard Classroom,INS_TURING,Dr. Alan Turing
+Wednesday,6,15:00 - 16:00,GRP_CSE_Y1,CSE Year 1 (Sec-A),CS103,Object-Oriented Java Programming,false,R_CR1,Classroom 201 (CR-1),Standard Classroom,INS_LISKOV,Prof. Barbara Liskov
+Thursday,4,13:00 - 14:00,GRP_CSE_Y1,CSE Year 1 (Sec-A),CS103,Object-Oriented Java Programming,false,R_AUD1,Main Auditorium (Aud-1),Lecture Hall,INS_LISKOV,Prof. Barbara Liskov
+Tuesday,4,13:00 - 14:00,GRP_CSE_Y1,CSE Year 1 (Sec-A),CS103,Object-Oriented Java Programming,false,R_AUD1,Main Auditorium (Aud-1),Lecture Hall,INS_LISKOV,Prof. Barbara Liskov
+Thursday,6,15:00 - 16:00,GRP_CSE_Y1,CSE Year 1 (Sec-A),CS104,Java & OOP Lab,true,R_LAB1,Software Computing Lab (Lab-1),Computer Lab,INS_LOVELACE,Prof. Ada Lovelace
+Tuesday,5,14:00 - 15:00,GRP_CSE_Y1,CSE Year 1 (Sec-A),CS104,Java & OOP Lab,true,R_LAB1,Software Computing Lab (Lab-1),Computer Lab,INS_LISKOV,Prof. Barbara Liskov
+Monday,6,15:00 - 16:00,GRP_CSE_Y1,CSE Year 1 (Sec-A),MA101,Discrete Math & Linear Algebra,false,R_CR3,Classroom 203 (CR-3),Standard Classroom,INS_KNUTH,Dr. Donald Knuth
+Thursday,5,14:00 - 15:00,GRP_CSE_Y1,CSE Year 1 (Sec-A),MA101,Discrete Math & Linear Algebra,false,R_CR1,Classroom 201 (CR-1),Standard Classroom,INS_JOHNSON,Dr. Katherine Johnson
+Tuesday,6,15:00 - 16:00,GRP_CSE_Y1,CSE Year 1 (Sec-A),MA101,Discrete Math & Linear Algebra,false,R_LH1,Lecture Hall Alpha (LH-1),Lecture Hall,INS_HINTON,Prof. Geoffrey Hinton
+Monday,1,09:00 - 10:00,GRP_CSE_Y2,CSE Year 2 (Sec-A),CS102,Data Structures & Algorithms,false,R_LH1,Lecture Hall Alpha (LH-1),Lecture Hall,INS_KNUTH,Dr. Donald Knuth
+Wednesday,4,13:00 - 14:00,GRP_CSE_Y2,CSE Year 2 (Sec-A),CS102,Data Structures & Algorithms,false,R_CR2,Classroom 202 (CR-2),Standard Classroom,INS_TURING,Dr. Alan Turing
+Tuesday,2,10:00 - 11:00,GRP_CSE_Y2,CSE Year 2 (Sec-A),CS102,Data Structures & Algorithms,false,R_CR1,Classroom 201 (CR-1),Standard Classroom,INS_TURING,Dr. Alan Turing
+Monday,2,10:00 - 11:00,GRP_CSE_Y2,CSE Year 2 (Sec-A),CS201,Operating Systems,false,R_CR3,Classroom 203 (CR-3),Standard Classroom,INS_HOPPER,Prof. Grace Hopper
+Friday,5,14:00 - 15:00,GRP_CSE_Y2,CSE Year 2 (Sec-A),CS201,Operating Systems,false,R_CR1,Classroom 201 (CR-1),Standard Classroom,INS_HOPPER,Prof. Grace Hopper
+Wednesday,5,14:00 - 15:00,GRP_CSE_Y2,CSE Year 2 (Sec-A),CS201,Operating Systems,false,R_LH1,Lecture Hall Alpha (LH-1),Lecture Hall,INS_KNUTH,Dr. Donald Knuth
+Tuesday,1,09:00 - 10:00,GRP_CSE_Y2,CSE Year 2 (Sec-A),CS202,Database Management Systems,false,R_CR1,Classroom 201 (CR-1),Standard Classroom,INS_HOPPER,Prof. Grace Hopper
+Thursday,5,14:00 - 15:00,GRP_CSE_Y2,CSE Year 2 (Sec-A),CS202,Database Management Systems,false,R_CR2,Classroom 202 (CR-2),Standard Classroom,INS_LISKOV,Prof. Barbara Liskov
+Wednesday,3,11:00 - 12:00,GRP_CSE_Y2,CSE Year 2 (Sec-A),CS202,Database Management Systems,false,R_LH1,Lecture Hall Alpha (LH-1),Lecture Hall,INS_LISKOV,Prof. Barbara Liskov
+Tuesday,3,11:00 - 12:00,GRP_CSE_Y2,CSE Year 2 (Sec-A),CS203,DBMS & SQL Lab,true,R_LAB2,Data Science & AI Lab (Lab-2),Computer Lab,INS_LISKOV,Prof. Barbara Liskov
+Friday,6,15:00 - 16:00,GRP_CSE_Y2,CSE Year 2 (Sec-A),CS203,DBMS & SQL Lab,true,R_LAB2,Data Science & AI Lab (Lab-2),Computer Lab,INS_LISKOV,Prof. Barbara Liskov
+Monday,1,09:00 - 10:00,GRP_CSE_Y3,CSE Year 3 (Sec-A),CS301,Computer Networks & Security,false,R_CR2,Classroom 202 (CR-2),Standard Classroom,INS_BERNERS,Dr. Tim Berners-Lee
+Thursday,3,11:00 - 12:00,GRP_CSE_Y3,CSE Year 3 (Sec-A),CS301,Computer Networks & Security,false,R_CR2,Classroom 202 (CR-2),Standard Classroom,INS_SHANNON,Dr. Claude Shannon
+Tuesday,3,11:00 - 12:00,GRP_CSE_Y3,CSE Year 3 (Sec-A),CS301,Computer Networks & Security,false,R_AUD1,Main Auditorium (Aud-1),Lecture Hall,INS_BERNERS,Dr. Tim Berners-Lee
+Monday,3,11:00 - 12:00,GRP_CSE_Y3,CSE Year 3 (Sec-A),CS302,Artificial Intelligence & ML,false,R_CR2,Classroom 202 (CR-2),Standard Classroom,INS_HINTON,Prof. Geoffrey Hinton
+Friday,4,13:00 - 14:00,GRP_CSE_Y3,CSE Year 3 (Sec-A),CS302,Artificial Intelligence & ML,false,R_AUD1,Main Auditorium (Aud-1),Lecture Hall,INS_TURING,Dr. Alan Turing
+Tuesday,4,13:00 - 14:00,GRP_CSE_Y3,CSE Year 3 (Sec-A),CS302,Artificial Intelligence & ML,false,R_CR3,Classroom 203 (CR-3),Standard Classroom,INS_TURING,Dr. Alan Turing
+Thursday,4,13:00 - 14:00,GRP_CSE_Y3,CSE Year 3 (Sec-A),CS303,Machine Learning Lab,true,R_LAB1,Software Computing Lab (Lab-1),Computer Lab,INS_HINTON,Prof. Geoffrey Hinton
+Monday,2,10:00 - 11:00,GRP_CSE_Y3,CSE Year 3 (Sec-A),CS303,Machine Learning Lab,true,R_LAB1,Software Computing Lab (Lab-1),Computer Lab,INS_HINTON,Prof. Geoffrey Hinton
+Friday,3,11:00 - 12:00,GRP_CSE_Y3,CSE Year 3 (Sec-A),IT101,Full-Stack Web Development,false,R_CR3,Classroom 203 (CR-3),Standard Classroom,INS_LOVELACE,Prof. Ada Lovelace
+Wednesday,6,15:00 - 16:00,GRP_CSE_Y3,CSE Year 3 (Sec-A),IT101,Full-Stack Web Development,false,R_CR2,Classroom 202 (CR-2),Standard Classroom,INS_LOVELACE,Prof. Ada Lovelace
+Thursday,2,10:00 - 11:00,GRP_CSE_Y3,CSE Year 3 (Sec-A),IT101,Full-Stack Web Development,false,R_CR3,Classroom 203 (CR-3),Standard Classroom,INS_LOVELACE,Prof. Ada Lovelace
+Wednesday,1,09:00 - 10:00,GRP_IT_Y1,IT Year 1 (Sec-A),CS101,Programming Fundamentals,false,R_CR3,Classroom 203 (CR-3),Standard Classroom,INS_TURING,Dr. Alan Turing
+Monday,4,13:00 - 14:00,GRP_IT_Y1,IT Year 1 (Sec-A),CS101,Programming Fundamentals,false,R_AUD1,Main Auditorium (Aud-1),Lecture Hall,INS_TURING,Dr. Alan Turing
+Thursday,2,10:00 - 11:00,GRP_IT_Y1,IT Year 1 (Sec-A),CS101,Programming Fundamentals,false,R_LH1,Lecture Hall Alpha (LH-1),Lecture Hall,INS_TURING,Dr. Alan Turing
+Friday,1,09:00 - 10:00,GRP_IT_Y1,IT Year 1 (Sec-A),IT101,Full-Stack Web Development,false,R_AUD1,Main Auditorium (Aud-1),Lecture Hall,INS_BERNERS,Dr. Tim Berners-Lee
+Monday,3,11:00 - 12:00,GRP_IT_Y1,IT Year 1 (Sec-A),IT101,Full-Stack Web Development,false,R_LH1,Lecture Hall Alpha (LH-1),Lecture Hall,INS_LOVELACE,Prof. Ada Lovelace
+Wednesday,3,11:00 - 12:00,GRP_IT_Y1,IT Year 1 (Sec-A),IT101,Full-Stack Web Development,false,R_CR1,Classroom 201 (CR-1),Standard Classroom,INS_BERNERS,Dr. Tim Berners-Lee
+Tuesday,2,10:00 - 11:00,GRP_IT_Y1,IT Year 1 (Sec-A),IT102,Web Technologies Lab,true,R_LAB2,Data Science & AI Lab (Lab-2),Computer Lab,INS_BERNERS,Dr. Tim Berners-Lee
+Wednesday,2,10:00 - 11:00,GRP_IT_Y1,IT Year 1 (Sec-A),IT102,Web Technologies Lab,true,R_LAB1,Software Computing Lab (Lab-1),Computer Lab,INS_BERNERS,Dr. Tim Berners-Lee
+Tuesday,1,09:00 - 10:00,GRP_IT_Y1,IT Year 1 (Sec-A),MA101,Discrete Math & Linear Algebra,false,R_LH1,Lecture Hall Alpha (LH-1),Lecture Hall,INS_KNUTH,Dr. Donald Knuth
+Thursday,1,09:00 - 10:00,GRP_IT_Y1,IT Year 1 (Sec-A),MA101,Discrete Math & Linear Algebra,false,R_CR3,Classroom 203 (CR-3),Standard Classroom,INS_JOHNSON,Dr. Katherine Johnson
+Friday,2,10:00 - 11:00,GRP_IT_Y1,IT Year 1 (Sec-A),MA101,Discrete Math & Linear Algebra,false,R_AUD1,Main Auditorium (Aud-1),Lecture Hall,INS_HINTON,Prof. Geoffrey Hinton
+Wednesday,1,09:00 - 10:00,GRP_ECE_Y1,ECE Year 1 (Sec-A),CS101,Programming Fundamentals,false,R_AUD1,Main Auditorium (Aud-1),Lecture Hall,INS_JOHNSON,Dr. Katherine Johnson
+Friday,3,11:00 - 12:00,GRP_ECE_Y1,ECE Year 1 (Sec-A),CS101,Programming Fundamentals,false,R_AUD1,Main Auditorium (Aud-1),Lecture Hall,INS_JOHNSON,Dr. Katherine Johnson
+Tuesday,5,14:00 - 15:00,GRP_ECE_Y1,ECE Year 1 (Sec-A),CS101,Programming Fundamentals,false,R_LH1,Lecture Hall Alpha (LH-1),Lecture Hall,INS_TURING,Dr. Alan Turing
+Friday,5,14:00 - 15:00,GRP_ECE_Y1,ECE Year 1 (Sec-A),EC101,Digital Logic & Microprocessors,false,R_LH1,Lecture Hall Alpha (LH-1),Lecture Hall,INS_SHANNON,Dr. Claude Shannon
+Tuesday,4,13:00 - 14:00,GRP_ECE_Y1,ECE Year 1 (Sec-A),EC101,Digital Logic & Microprocessors,false,R_CR2,Classroom 202 (CR-2),Standard Classroom,INS_SHANNON,Dr. Claude Shannon
+Thursday,5,14:00 - 15:00,GRP_ECE_Y1,ECE Year 1 (Sec-A),EC101,Digital Logic & Microprocessors,false,R_CR3,Classroom 203 (CR-3),Standard Classroom,INS_SHANNON,Dr. Claude Shannon
+Tuesday,6,15:00 - 16:00,GRP_ECE_Y1,ECE Year 1 (Sec-A),EC102,Microprocessor Hardware Lab,true,R_LAB3,Electronics & Embedded Lab (Lab-3),Science/Electronics Lab,INS_SHANNON,Dr. Claude Shannon
+Monday,5,14:00 - 15:00,GRP_ECE_Y1,ECE Year 1 (Sec-A),EC102,Microprocessor Hardware Lab,true,R_LAB3,Electronics & Embedded Lab (Lab-3),Science/Electronics Lab,INS_SHANNON,Dr. Claude Shannon
+Friday,4,13:00 - 14:00,GRP_ECE_Y1,ECE Year 1 (Sec-A),MA101,Discrete Math & Linear Algebra,false,R_CR2,Classroom 202 (CR-2),Standard Classroom,INS_KNUTH,Dr. Donald Knuth
+Thursday,6,15:00 - 16:00,GRP_ECE_Y1,ECE Year 1 (Sec-A),MA101,Discrete Math & Linear Algebra,false,R_CR2,Classroom 202 (CR-2),Standard Classroom,INS_HINTON,Prof. Geoffrey Hinton
+Monday,4,13:00 - 14:00,GRP_ECE_Y1,ECE Year 1 (Sec-A),MA101,Discrete Math & Linear Algebra,false,R_CR2,Classroom 202 (CR-2),Standard Classroom,INS_HINTON,Prof. Geoffrey Hinton

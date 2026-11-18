@@ -1,0 +1,14 @@
+# Build and Compiled Classes
+bin/
+build/
+target/
+*.class
+
+# OS / Editor files
+.DS_Store
+.idea/
+*.iml
+.vscode/
+
+# Temporary / Log files
+*.log
