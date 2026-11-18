@@ -8,7 +8,9 @@ target/
 .DS_Store
 .idea/
 *.iml
-.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
 
 # Temporary / Log files
 *.log

@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run Timetable Generator (Web Server)",
+            "request": "launch",
+            "mainClass": "com.timetabler.Main",
+            "args": "--web 8080",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "Run Timetable Generator (Interactive CLI)",
+            "request": "launch",
+            "mainClass": "com.timetabler.Main",
+            "args": "-i",
+            "console": "integratedTerminal"
+        }
+    ]
+}
